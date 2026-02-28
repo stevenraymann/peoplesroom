@@ -79,7 +79,19 @@ nav {
   background: rgba(255,255,255,0.06);
 }
 
-.nav-links a.cta {
+.nav-links a.icon-link {
+  display: flex;
+  align-items: center;
+  padding: 0.45rem 0.6rem;
+  color: var(--muted);
+}
+
+.nav-links a.icon-link:hover {
+  color: #fff;
+  background: rgba(255,255,255,0.06);
+}
+
+
   background: var(--red);
   color: #fff;
   padding: 0.45rem 1rem;
