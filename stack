@@ -2,5 +2,8 @@ resend account with stevenmann.io
 peoplesroomshows@gmail.com : MardiGras2026!
 GoDaddy registrar
 Cloudflare onboarded domain
-Cloudflare workers in wrangler
+Cloudflare workers in wrangler > 
 Cloudflare pages webpage
+
+calendar embed code
+<iframe src="https://calendar.google.com/calendar/embed?src=21fa76a3466d81c736aa9a70a0885963162e109f0d957c4244a044336b20beca%40group.calendar.google.com&ctz=America%2FChicago" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
