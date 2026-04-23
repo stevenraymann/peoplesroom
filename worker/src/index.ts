@@ -31,7 +31,7 @@ export default {
         },
         body: JSON.stringify({
           from: "Peoples Room <booking@thepeoplesroomofmobile.com>",
-          to: ["peoplesroomshows@gmail.com"],
+          to: ["thepeoplesroomofmobile@gmail.com"],
           subject: `New Booking Request: ${data.artistName}`,
           html: `
             <h2>New Booking Request</h2>
